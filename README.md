@@ -65,7 +65,7 @@ To run the notebook and perform your own analysis, you can follow these steps:
 3. Clone this repository to your local machine:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/subhan-liaqat/Google-Stock-Price-Prediction-using-ARIMA-Model
    ```
 
 4. Open the Jupyter notebook in your favorite Python environment (e.g., Jupyter Notebook, Jupyter Lab) and run each cell to analyze the stock market data.
