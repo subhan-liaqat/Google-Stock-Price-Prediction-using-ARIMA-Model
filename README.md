@@ -59,7 +59,7 @@ To run the notebook and perform your own analysis, you can follow these steps:
 2. Install the required libraries by running:
 
    ```
-   pip install pandas yfinance matplotlib statsmodels
+   pip install -r requirements.txt
    ```
 
 3. Clone this repository to your local machine:
