@@ -2,9 +2,9 @@
 
 This repository contains a Python notebook for performing time series analysis on historical stock market data. The analysis is focused on Google's stock (GOOG) and includes data collection, preprocessing, visualization, and the application of ARIMA (AutoRegressive Integrated Moving Average) and SARIMAX models for making predictions.
 
-## Project Structure
+## Project Workflow
 
-The Python notebook is organized into several sections, each serving a specific purpose:
+<img src = "/workflow.jpeg">
 
 ### Importing Libraries
 
